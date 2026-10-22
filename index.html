@@ -40,15 +40,57 @@
     background: #fffcf8; border: 1px solid #d9d0c2; border-radius: 4px; color: #1c1c1c;
     font-weight: 600; box-shadow: 0 2px 6px rgba(40,30,10,0.12);
   }
+  .sheet-bar, #picked, #sheet-toggle { display: none; }
+  @media (max-width: 800px) {
+    .sheet-bar { display: block; }
+    .sheet-grab {
+      display: block; width: 100%; margin: 0 0 6px; padding: 6px 0 2px;
+      border: 0; background: transparent; cursor: pointer;
+    }
+    .sheet-grab span {
+      display: block; width: 40px; height: 4px; margin: 0 auto; border-radius: 99px; background: #cfc6b8;
+    }
+    #sheet-toggle {
+      display: inline-block; flex: none;
+      font: inherit; font-size: 14px; font-weight: 600; border: 0; background: #1c1c1c; color: #fff;
+      border-radius: 999px; padding: 8px 14px; cursor: pointer;
+    }
+    #picked {
+      display: block; margin: 8px 0 0; font-size: 14px; font-weight: 600; line-height: 1.3;
+    }
+    #picked[hidden] { display: none; }
+    #panel {
+      top: auto; left: 0; right: 0; bottom: 0; width: auto;
+      max-height: min(70vh, 560px);
+      border-radius: 16px 16px 0 0;
+      padding: 6px 14px calc(12px + env(safe-area-inset-bottom));
+    }
+    #panel.collapsed { max-height: none; overflow: hidden; }
+    #panel.collapsed #title,
+    #panel.collapsed #sub,
+    #panel.collapsed #legend,
+    #panel.collapsed .note { display: none; }
+    .school-row { padding: 9px 6px 9px 18px; font-size: 15px; }
+    .district-head { padding: 8px 2px; }
+    .leaflet-top { top: env(safe-area-inset-top); }
+    .leaflet-bottom { bottom: calc(var(--sheet-h, 88px) + 2px); }
+    .leaflet-popup-content { font-size: 14px; line-height: 1.35; }
+    .leaflet-popup-content-wrapper { max-width: calc(100vw - 40px); }
+  }
 </style>
 </head>
 <body>
 <div id="map"></div>
 <div id="panel">
+  <div class="sheet-bar">
+    <button id="sheet-grab" class="sheet-grab" type="button" aria-controls="legend"><span></span></button>
+  </div>
   <div class="toolbar">
     <label for="class-select">Class</label>
     <select id="class-select"></select>
+    <button id="sheet-toggle" type="button" aria-controls="legend" aria-expanded="false">Schools</button>
   </div>
+  <p id="picked" hidden></p>
   <h1 id="title"></h1>
   <p class="sub" id="sub"></p>
   <div id="legend"></div>
@@ -69,6 +111,45 @@ const countyLayer = L.geoJSON(DATA.counties, {
   }
 }).addTo(map);
 map.fitBounds(countyLayer.getBounds(), {padding: [24, 360]});
+
+const panel = document.getElementById("panel");
+const picked = document.getElementById("picked");
+const sheetToggle = document.getElementById("sheet-toggle");
+const mobileQuery = window.matchMedia("(max-width: 800px)");
+function mobileLayout() {
+  return mobileQuery.matches;
+}
+function updateSheetButton() {
+  const open = mobileLayout() && !panel.classList.contains("collapsed");
+  sheetToggle.textContent = open ? "Map" : "Schools";
+  sheetToggle.setAttribute("aria-expanded", open ? "true" : "false");
+  document.getElementById("sheet-grab").setAttribute("aria-expanded", open ? "true" : "false");
+  document.getElementById("sheet-grab").setAttribute("aria-label", open ? "Show the map" : "Show the school list");
+  if (mobileLayout()) document.documentElement.style.setProperty("--sheet-h", panel.offsetHeight + "px");
+  else document.documentElement.style.removeProperty("--sheet-h");
+}
+function setSheet(open) {
+  if (!mobileLayout()) {
+    panel.classList.remove("collapsed");
+    return;
+  }
+  panel.classList.toggle("collapsed", !open);
+  updateSheetButton();
+}
+function fitMobile() {
+  map.invalidateSize();
+  map.fitBounds(countyLayer.getBounds(), {
+    paddingTopLeft: [16, 16],
+    paddingBottomRight: [16, panel.offsetHeight + 12]
+  });
+}
+sheetToggle.addEventListener("click", () => setSheet(panel.classList.contains("collapsed")));
+document.getElementById("sheet-grab").addEventListener("click", () => setSheet(panel.classList.contains("collapsed")));
+mobileQuery.addEventListener("change", () => {
+  if (!mobileLayout()) panel.classList.remove("collapsed");
+  updateSheetButton();
+  map.invalidateSize();
+});
 
 const select = document.getElementById("class-select");
 DATA.order.forEach(id => {
@@ -102,6 +183,8 @@ function resetMarkers() {
     school.marker.bindTooltip(hoverLabel(school), {direction: "top", offset: [0, -8]});
   });
   document.querySelectorAll(".school-row.selected").forEach(row => row.classList.remove("selected"));
+  picked.hidden = true;
+  picked.textContent = "";
 }
 function showSchool(schoolName, fly) {
   const targets = current.schools.filter(school => school.school === schoolName);
@@ -133,14 +216,27 @@ function showSchool(schoolName, fly) {
     }).addTo(map));
   });
   rowBySchool[schoolName].classList.add("selected");
+  const townLabel = targets.map(school => school.town).filter((town, index, list) => list.indexOf(town) === index).join(" & ");
+  picked.hidden = false;
+  picked.textContent = targets[0].school + " · " + townLabel;
   targets[0].marker.openPopup();
+  if (fly && mobileLayout()) setSheet(false);
+  else if (mobileLayout()) updateSheetButton();
   if (fly) {
-    map.flyToBounds(L.latLngBounds(targets.map(school => school.marker.getLatLng())), {
-      paddingTopLeft: [48, 48],
-      paddingBottomRight: [400, 48],
-      maxZoom: 10,
-      duration: 0.55
-    });
+    const options = mobileLayout()
+      ? {
+          paddingTopLeft: [28, 28],
+          paddingBottomRight: [28, panel.offsetHeight + 28],
+          maxZoom: 11,
+          duration: 0.55
+        }
+      : {
+          paddingTopLeft: [48, 48],
+          paddingBottomRight: [400, 48],
+          maxZoom: 10,
+          duration: 0.55
+        };
+    map.flyToBounds(L.latLngBounds(targets.map(school => school.marker.getLatLng())), options);
   }
 }
 function loadClass(id) {
@@ -179,10 +275,14 @@ function loadClass(id) {
     });
     school.marker = marker;
     const shared = school.shared ? "<br><em>Shared program. Both towns are marked.</em>" : "";
+    const popupOptions = mobileLayout()
+      ? {autoPanPaddingTopLeft: [16, 16], autoPanPaddingBottomRight: [16, 150]}
+      : {};
     marker.bindPopup(
       "<strong>" + esc(school.school) + "</strong><br>" +
       esc(school.town) + ", " + esc(school.county) + " County<br>" +
-      klass.unit + " " + school.district + " · " + school.region + shared
+      klass.unit + " " + school.district + " · " + school.region + shared,
+      popupOptions
     );
     marker.bindTooltip(hoverLabel(school), {direction: "top", offset: [0, -8]});
     marker.on("click", () => showSchool(school.school, false));
@@ -244,9 +344,12 @@ select.addEventListener("change", () => loadClass(select.value));
 map.on("click", () => {
   map.closePopup();
   resetMarkers();
+  if (mobileLayout()) setSheet(false);
 });
+if (mobileLayout()) setSheet(false);
 const fromHash = decodeURIComponent((location.hash || "").replace(/^#/, ""));
 loadClass(DATA.classes[fromHash] ? fromHash : "1A");
+if (mobileLayout()) fitMobile();
 </script>
 </body>
 </html>
