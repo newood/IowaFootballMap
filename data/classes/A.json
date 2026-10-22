@@ -1,0 +1,629 @@
+{
+  "id": "A",
+  "label": "Class A",
+  "unit": "District",
+  "teams": [
+    {
+      "district": 1,
+      "school": "Gehlen Catholic",
+      "places": [
+        {
+          "gazetteer": "Le Mars",
+          "display": "Le Mars"
+        }
+      ],
+      "map_label": "Gehlen\nLe Mars"
+    },
+    {
+      "district": 1,
+      "school": "Hartley-Melvin-Sanborn",
+      "places": [
+        {
+          "gazetteer": "Hartley",
+          "display": "Hartley"
+        }
+      ],
+      "map_label": "HMS\nHartley"
+    },
+    {
+      "district": 1,
+      "school": "MMCRU",
+      "places": [
+        {
+          "gazetteer": "Marcus",
+          "display": "Marcus"
+        }
+      ],
+      "map_label": "MMCRU\nMarcus"
+    },
+    {
+      "district": 1,
+      "school": "Sibley-Ocheyedan",
+      "places": [
+        {
+          "gazetteer": "Sibley",
+          "display": "Sibley"
+        }
+      ],
+      "map_label": "Sibley-Ocheyedan"
+    },
+    {
+      "district": 1,
+      "school": "Sioux Central",
+      "places": [
+        {
+          "gazetteer": "Sioux Rapids",
+          "display": "Sioux Rapids"
+        }
+      ],
+      "map_label": "Sioux Central\nSioux Rapids"
+    },
+    {
+      "district": 1,
+      "school": "South O'Brien",
+      "places": [
+        {
+          "gazetteer": "Paullina",
+          "display": "Paullina"
+        }
+      ],
+      "map_label": "South O'Brien\nPaullina"
+    },
+    {
+      "district": 1,
+      "school": "West Sioux",
+      "places": [
+        {
+          "gazetteer": "Hawarden",
+          "display": "Hawarden"
+        }
+      ],
+      "map_label": "West Sioux\nHawarden"
+    },
+    {
+      "district": 2,
+      "school": "AGWSR",
+      "places": [
+        {
+          "gazetteer": "Ackley",
+          "display": "Ackley"
+        }
+      ],
+      "map_label": "AGWSR\nAckley"
+    },
+    {
+      "district": 2,
+      "school": "BCLUW",
+      "places": [
+        {
+          "gazetteer": "Conrad",
+          "display": "Conrad"
+        }
+      ],
+      "map_label": "BCLUW\nConrad"
+    },
+    {
+      "district": 2,
+      "school": "Belmond-Klemme",
+      "places": [
+        {
+          "gazetteer": "Belmond",
+          "display": "Belmond"
+        }
+      ],
+      "map_label": "Belmond-Klemme"
+    },
+    {
+      "district": 2,
+      "school": "Lake Mills",
+      "places": [
+        {
+          "gazetteer": "Lake Mills",
+          "display": "Lake Mills"
+        }
+      ],
+      "map_label": "Lake Mills"
+    },
+    {
+      "district": 2,
+      "school": "Newman Catholic",
+      "places": [
+        {
+          "gazetteer": "Mason City",
+          "display": "Mason City",
+          "lon": -93.185,
+          "lat": 43.148
+        }
+      ],
+      "map_label": "Newman\nMason City"
+    },
+    {
+      "district": 2,
+      "school": "West Fork",
+      "places": [
+        {
+          "gazetteer": "Sheffield",
+          "display": "Sheffield"
+        }
+      ],
+      "map_label": "West Fork\nSheffield"
+    },
+    {
+      "district": 2,
+      "school": "West Hancock",
+      "places": [
+        {
+          "gazetteer": "Britt",
+          "display": "Britt"
+        }
+      ],
+      "map_label": "West Hancock\nBritt"
+    },
+    {
+      "district": 3,
+      "school": "Clayton Ridge",
+      "places": [
+        {
+          "gazetteer": "Guttenberg",
+          "display": "Guttenberg"
+        }
+      ],
+      "map_label": "Clayton Ridge\nGuttenberg"
+    },
+    {
+      "district": 3,
+      "school": "Nashua-Plainfield",
+      "places": [
+        {
+          "gazetteer": "Nashua",
+          "display": "Nashua"
+        }
+      ],
+      "map_label": "Nashua-Plainfield"
+    },
+    {
+      "district": 3,
+      "school": "North Butler",
+      "places": [
+        {
+          "gazetteer": "Greene",
+          "display": "Greene"
+        }
+      ],
+      "map_label": "North Butler\nGreene"
+    },
+    {
+      "district": 3,
+      "school": "Postville",
+      "places": [
+        {
+          "gazetteer": "Postville",
+          "display": "Postville"
+        }
+      ],
+      "map_label": "Postville"
+    },
+    {
+      "district": 3,
+      "school": "Saint Ansgar",
+      "places": [
+        {
+          "gazetteer": "St. Ansgar",
+          "display": "St. Ansgar"
+        }
+      ],
+      "map_label": "St. Ansgar"
+    },
+    {
+      "district": 3,
+      "school": "South Winneshiek",
+      "places": [
+        {
+          "gazetteer": "Calmar",
+          "display": "Calmar"
+        }
+      ],
+      "map_label": "S. Winneshiek\nCalmar"
+    },
+    {
+      "district": 3,
+      "school": "Starmont",
+      "places": [
+        {
+          "gazetteer": "Arlington",
+          "display": "Arlington"
+        }
+      ],
+      "map_label": "Starmont\nArlington"
+    },
+    {
+      "district": 4,
+      "school": "East Marshall",
+      "places": [
+        {
+          "gazetteer": "Le Grand",
+          "display": "Le Grand"
+        }
+      ],
+      "map_label": "East Marshall\nLe Grand"
+    },
+    {
+      "district": 4,
+      "school": "East Buchanan",
+      "places": [
+        {
+          "gazetteer": "Winthrop",
+          "display": "Winthrop"
+        }
+      ],
+      "map_label": "East Buchanan\nWinthrop"
+    },
+    {
+      "district": 4,
+      "school": "Maquoketa Valley",
+      "places": [
+        {
+          "gazetteer": "Delhi",
+          "display": "Delhi"
+        }
+      ],
+      "map_label": "Maquoketa Valley\nDelhi"
+    },
+    {
+      "district": 4,
+      "school": "Midland",
+      "places": [
+        {
+          "gazetteer": "Wyoming",
+          "display": "Wyoming"
+        }
+      ],
+      "map_label": "Midland\nWyoming"
+    },
+    {
+      "district": 4,
+      "school": "North Cedar",
+      "places": [
+        {
+          "gazetteer": "Stanwood",
+          "display": "Stanwood"
+        }
+      ],
+      "map_label": "North Cedar\nStanwood"
+    },
+    {
+      "district": 4,
+      "school": "North Linn",
+      "places": [
+        {
+          "gazetteer": "Coggon",
+          "display": "Troy Mills",
+          "lon": -91.6828,
+          "lat": 42.2894
+        }
+      ],
+      "map_label": "North Linn\nTroy Mills"
+    },
+    {
+      "district": 4,
+      "school": "Wapsie Valley",
+      "places": [
+        {
+          "gazetteer": "Fairbank",
+          "display": "Fairbank"
+        }
+      ],
+      "map_label": "Wapsie Valley\nFairbank"
+    },
+    {
+      "district": 5,
+      "school": "Columbus Community",
+      "places": [
+        {
+          "gazetteer": "Columbus Junction",
+          "display": "Columbus Junction"
+        }
+      ],
+      "map_label": "Columbus\nJunction"
+    },
+    {
+      "district": 5,
+      "school": "Danville",
+      "places": [
+        {
+          "gazetteer": "Danville",
+          "display": "Danville"
+        }
+      ],
+      "map_label": "Danville"
+    },
+    {
+      "district": 5,
+      "school": "Highland",
+      "places": [
+        {
+          "gazetteer": "Riverside",
+          "display": "Riverside"
+        }
+      ],
+      "map_label": "Highland\nRiverside"
+    },
+    {
+      "district": 5,
+      "school": "New London",
+      "places": [
+        {
+          "gazetteer": "New London",
+          "display": "New London"
+        }
+      ],
+      "map_label": "New London"
+    },
+    {
+      "district": 5,
+      "school": "Pekin",
+      "places": [
+        {
+          "gazetteer": "Packwood",
+          "display": "Packwood"
+        }
+      ],
+      "map_label": "Pekin\nPackwood"
+    },
+    {
+      "district": 5,
+      "school": "Van Buren County",
+      "places": [
+        {
+          "gazetteer": "Keosauqua",
+          "display": "Keosauqua"
+        }
+      ],
+      "map_label": "Van Buren\nKeosauqua"
+    },
+    {
+      "district": 5,
+      "school": "Wapello",
+      "places": [
+        {
+          "gazetteer": "Wapello",
+          "display": "Wapello"
+        }
+      ],
+      "map_label": "Wapello"
+    },
+    {
+      "district": 6,
+      "school": "BGM",
+      "places": [
+        {
+          "gazetteer": "Brooklyn",
+          "display": "Brooklyn"
+        }
+      ],
+      "map_label": "BGM\nBrooklyn"
+    },
+    {
+      "district": 6,
+      "school": "Colfax-Mingo",
+      "places": [
+        {
+          "gazetteer": "Colfax",
+          "display": "Colfax"
+        }
+      ],
+      "map_label": "Colfax-Mingo"
+    },
+    {
+      "district": 6,
+      "school": "Earlham",
+      "places": [
+        {
+          "gazetteer": "Earlham",
+          "display": "Earlham"
+        }
+      ],
+      "map_label": "Earlham"
+    },
+    {
+      "district": 6,
+      "school": "Lynnville-Sully",
+      "places": [
+        {
+          "gazetteer": "Sully",
+          "display": "Sully"
+        }
+      ],
+      "map_label": "Lynnville-Sully"
+    },
+    {
+      "district": 6,
+      "school": "Madrid",
+      "places": [
+        {
+          "gazetteer": "Madrid",
+          "display": "Madrid"
+        }
+      ],
+      "map_label": "Madrid"
+    },
+    {
+      "district": 6,
+      "school": "Martensdale-St. Marys",
+      "places": [
+        {
+          "gazetteer": "Martensdale",
+          "display": "Martensdale"
+        }
+      ],
+      "map_label": "Martensdale-\nSt. Marys"
+    },
+    {
+      "district": 6,
+      "school": "North Mahaska",
+      "places": [
+        {
+          "gazetteer": "New Sharon",
+          "display": "New Sharon"
+        }
+      ],
+      "map_label": "North Mahaska\nNew Sharon"
+    },
+    {
+      "district": 7,
+      "school": "ACGC",
+      "places": [
+        {
+          "gazetteer": "Guthrie Center",
+          "display": "Guthrie Center"
+        }
+      ],
+      "map_label": "ACGC\nGuthrie Center"
+    },
+    {
+      "district": 7,
+      "school": "AHSTW",
+      "places": [
+        {
+          "gazetteer": "Avoca",
+          "display": "Avoca"
+        }
+      ],
+      "map_label": "AHSTW\nAvoca"
+    },
+    {
+      "district": 7,
+      "school": "Central Decatur",
+      "places": [
+        {
+          "gazetteer": "Leon",
+          "display": "Leon"
+        }
+      ],
+      "map_label": "Central Decatur\nLeon"
+    },
+    {
+      "district": 7,
+      "school": "Mount Ayr",
+      "places": [
+        {
+          "gazetteer": "Mount Ayr",
+          "display": "Mount Ayr"
+        }
+      ],
+      "map_label": "Mount Ayr"
+    },
+    {
+      "district": 7,
+      "school": "Nodaway Valley",
+      "places": [
+        {
+          "gazetteer": "Greenfield",
+          "display": "Greenfield"
+        }
+      ],
+      "map_label": "Nodaway Valley\nGreenfield"
+    },
+    {
+      "district": 7,
+      "school": "Riverside",
+      "places": [
+        {
+          "gazetteer": "Oakland",
+          "display": "Oakland"
+        }
+      ],
+      "map_label": "Riverside\nOakland"
+    },
+    {
+      "district": 7,
+      "school": "Southwest Valley",
+      "places": [
+        {
+          "gazetteer": "Corning",
+          "display": "Corning"
+        }
+      ],
+      "map_label": "SW Valley\nCorning"
+    },
+    {
+      "district": 8,
+      "school": "Akron-Westfield",
+      "places": [
+        {
+          "gazetteer": "Akron",
+          "display": "Akron"
+        }
+      ],
+      "map_label": "Akron-Westfield"
+    },
+    {
+      "district": 8,
+      "school": "IKM-Manning",
+      "places": [
+        {
+          "gazetteer": "Manning",
+          "display": "Manning"
+        }
+      ],
+      "map_label": "IKM-Manning"
+    },
+    {
+      "district": 8,
+      "school": "Logan-Magnolia",
+      "places": [
+        {
+          "gazetteer": "Logan",
+          "display": "Logan"
+        }
+      ],
+      "map_label": "Logan-Magnolia"
+    },
+    {
+      "district": 8,
+      "school": "St. Albert",
+      "places": [
+        {
+          "gazetteer": "Council Bluffs",
+          "display": "Council Bluffs",
+          "lon": -95.835,
+          "lat": 41.261
+        }
+      ],
+      "map_label": "St. Albert"
+    },
+    {
+      "district": 8,
+      "school": "West Monona",
+      "places": [
+        {
+          "gazetteer": "Onawa",
+          "display": "Onawa"
+        }
+      ],
+      "map_label": "West Monona\nOnawa"
+    },
+    {
+      "district": 8,
+      "school": "Westwood",
+      "places": [
+        {
+          "gazetteer": "Sloan",
+          "display": "Sloan"
+        }
+      ],
+      "map_label": "Westwood\nSloan"
+    },
+    {
+      "district": 8,
+      "school": "Woodbury Central",
+      "places": [
+        {
+          "gazetteer": "Moville",
+          "display": "Moville"
+        }
+      ],
+      "map_label": "Woodbury Central\nMoville"
+    }
+  ]
+}

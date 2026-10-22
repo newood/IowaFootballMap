@@ -1,0 +1,413 @@
+{
+  "id": "3A",
+  "label": "Class 3A",
+  "unit": "District",
+  "teams": [
+    {
+      "district": 1,
+      "school": "Algona",
+      "places": [
+        {
+          "gazetteer": "Algona",
+          "display": "Algona"
+        }
+      ],
+      "map_label": "Algona"
+    },
+    {
+      "district": 1,
+      "school": "Bishop Heelan Catholic",
+      "places": [
+        {
+          "gazetteer": "Sioux City",
+          "display": "Sioux City",
+          "lon": -96.4005,
+          "lat": 42.4965
+        }
+      ],
+      "map_label": "Heelan\nSioux City"
+    },
+    {
+      "district": 1,
+      "school": "Humboldt",
+      "places": [
+        {
+          "gazetteer": "Humboldt",
+          "display": "Humboldt"
+        }
+      ],
+      "map_label": "Humboldt"
+    },
+    {
+      "district": 1,
+      "school": "MOC-Floyd Valley",
+      "places": [
+        {
+          "gazetteer": "Orange City",
+          "display": "Orange City"
+        }
+      ],
+      "map_label": "MOC-FV\nOrange City"
+    },
+    {
+      "district": 1,
+      "school": "Sioux Center",
+      "places": [
+        {
+          "gazetteer": "Sioux Center",
+          "display": "Sioux Center"
+        }
+      ],
+      "map_label": "Sioux Center"
+    },
+    {
+      "district": 1,
+      "school": "Webster City",
+      "places": [
+        {
+          "gazetteer": "Webster City",
+          "display": "Webster City"
+        }
+      ],
+      "map_label": "Webster City"
+    },
+    {
+      "district": 2,
+      "school": "Benton Community",
+      "places": [
+        {
+          "gazetteer": "Van Horne",
+          "display": "Van Horne"
+        }
+      ],
+      "map_label": "Benton\nVan Horne"
+    },
+    {
+      "district": 2,
+      "school": "Charles City",
+      "places": [
+        {
+          "gazetteer": "Charles City",
+          "display": "Charles City"
+        }
+      ],
+      "map_label": "Charles City"
+    },
+    {
+      "district": 2,
+      "school": "Clear Lake",
+      "places": [
+        {
+          "gazetteer": "Clear Lake",
+          "display": "Clear Lake"
+        }
+      ],
+      "map_label": "Clear Lake"
+    },
+    {
+      "district": 2,
+      "school": "Independence",
+      "places": [
+        {
+          "gazetteer": "Independence",
+          "display": "Independence"
+        }
+      ],
+      "map_label": "Independence"
+    },
+    {
+      "district": 2,
+      "school": "Iowa Falls-Alden",
+      "places": [
+        {
+          "gazetteer": "Iowa Falls",
+          "display": "Iowa Falls"
+        }
+      ],
+      "map_label": "Iowa Falls-\nAlden"
+    },
+    {
+      "district": 2,
+      "school": "West Delaware",
+      "places": [
+        {
+          "gazetteer": "Manchester",
+          "display": "Manchester"
+        }
+      ],
+      "map_label": "West Delaware\nManchester"
+    },
+    {
+      "district": 3,
+      "school": "Assumption",
+      "places": [
+        {
+          "gazetteer": "Davenport",
+          "display": "Davenport",
+          "lon": -90.592,
+          "lat": 41.5385
+        }
+      ],
+      "map_label": "Assumption"
+    },
+    {
+      "district": 3,
+      "school": "Center Point-Urbana",
+      "places": [
+        {
+          "gazetteer": "Center Point",
+          "display": "Center Point"
+        }
+      ],
+      "map_label": "Center Point-\nUrbana"
+    },
+    {
+      "district": 3,
+      "school": "Central DeWitt",
+      "places": [
+        {
+          "gazetteer": "DeWitt",
+          "display": "DeWitt"
+        }
+      ],
+      "map_label": "Central DeWitt"
+    },
+    {
+      "district": 3,
+      "school": "Maquoketa",
+      "places": [
+        {
+          "gazetteer": "Maquoketa",
+          "display": "Maquoketa"
+        }
+      ],
+      "map_label": "Maquoketa"
+    },
+    {
+      "district": 3,
+      "school": "Mount Vernon",
+      "places": [
+        {
+          "gazetteer": "Mount Vernon",
+          "display": "Mount Vernon"
+        }
+      ],
+      "map_label": "Mount Vernon"
+    },
+    {
+      "district": 3,
+      "school": "Wahlert Catholic",
+      "places": [
+        {
+          "gazetteer": "Dubuque",
+          "display": "Dubuque",
+          "lon": -90.689,
+          "lat": 42.5155
+        }
+      ],
+      "map_label": "Wahlert"
+    },
+    {
+      "district": 4,
+      "school": "Fairfield",
+      "places": [
+        {
+          "gazetteer": "Fairfield",
+          "display": "Fairfield"
+        }
+      ],
+      "map_label": "Fairfield"
+    },
+    {
+      "district": 4,
+      "school": "Fort Madison",
+      "places": [
+        {
+          "gazetteer": "Fort Madison",
+          "display": "Fort Madison"
+        }
+      ],
+      "map_label": "Fort Madison"
+    },
+    {
+      "district": 4,
+      "school": "Keokuk",
+      "places": [
+        {
+          "gazetteer": "Keokuk",
+          "display": "Keokuk"
+        }
+      ],
+      "map_label": "Keokuk"
+    },
+    {
+      "district": 4,
+      "school": "Mount Pleasant",
+      "places": [
+        {
+          "gazetteer": "Mount Pleasant",
+          "display": "Mount Pleasant"
+        }
+      ],
+      "map_label": "Mount Pleasant"
+    },
+    {
+      "district": 4,
+      "school": "Solon",
+      "places": [
+        {
+          "gazetteer": "Solon",
+          "display": "Solon"
+        }
+      ],
+      "map_label": "Solon"
+    },
+    {
+      "district": 4,
+      "school": "Washington",
+      "places": [
+        {
+          "gazetteer": "Washington",
+          "display": "Washington"
+        }
+      ],
+      "map_label": "Washington"
+    },
+    {
+      "district": 5,
+      "school": "Des Moines Christian",
+      "places": [
+        {
+          "gazetteer": "Urbandale",
+          "display": "Urbandale",
+          "lon": -93.736,
+          "lat": 41.6385
+        }
+      ],
+      "map_label": "DM Christian"
+    },
+    {
+      "district": 5,
+      "school": "Knoxville",
+      "places": [
+        {
+          "gazetteer": "Knoxville",
+          "display": "Knoxville"
+        }
+      ],
+      "map_label": "Knoxville"
+    },
+    {
+      "district": 5,
+      "school": "Nevada",
+      "places": [
+        {
+          "gazetteer": "Nevada",
+          "display": "Nevada"
+        }
+      ],
+      "map_label": "Nevada"
+    },
+    {
+      "district": 5,
+      "school": "Saydel",
+      "places": [
+        {
+          "gazetteer": "Saylorville",
+          "display": "Saylorville",
+          "lon": -93.616,
+          "lat": 41.6505
+        }
+      ],
+      "map_label": "Saydel"
+    },
+    {
+      "district": 5,
+      "school": "Williamsburg",
+      "places": [
+        {
+          "gazetteer": "Williamsburg",
+          "display": "Williamsburg"
+        }
+      ],
+      "map_label": "Williamsburg"
+    },
+    {
+      "district": 5,
+      "school": "Winterset",
+      "places": [
+        {
+          "gazetteer": "Winterset",
+          "display": "Winterset"
+        }
+      ],
+      "map_label": "Winterset"
+    },
+    {
+      "district": 6,
+      "school": "Atlantic",
+      "places": [
+        {
+          "gazetteer": "Atlantic",
+          "display": "Atlantic"
+        }
+      ],
+      "map_label": "Atlantic"
+    },
+    {
+      "district": 6,
+      "school": "Carroll",
+      "places": [
+        {
+          "gazetteer": "Carroll",
+          "display": "Carroll"
+        }
+      ],
+      "map_label": "Carroll"
+    },
+    {
+      "district": 6,
+      "school": "Creston",
+      "places": [
+        {
+          "gazetteer": "Creston",
+          "display": "Creston"
+        }
+      ],
+      "map_label": "Creston"
+    },
+    {
+      "district": 6,
+      "school": "Greene County",
+      "places": [
+        {
+          "gazetteer": "Jefferson",
+          "display": "Jefferson"
+        }
+      ],
+      "map_label": "Greene County\nJefferson"
+    },
+    {
+      "district": 6,
+      "school": "Harlan",
+      "places": [
+        {
+          "gazetteer": "Harlan",
+          "display": "Harlan"
+        }
+      ],
+      "map_label": "Harlan"
+    },
+    {
+      "district": 6,
+      "school": "Perry",
+      "places": [
+        {
+          "gazetteer": "Perry",
+          "display": "Perry"
+        }
+      ],
+      "map_label": "Perry"
+    }
+  ]
+}

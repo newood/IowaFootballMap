@@ -1,0 +1,265 @@
+class,district,unit,region,school,town,county,latitude,longitude
+5A,1,Group,South-central,Des Moines East,Des Moines,Polk,41.595800,-93.607500
+5A,1,Group,South-central,Iowa City City High,Iowa City,Johnson,41.668000,-91.511200
+5A,1,Group,South-central,Norwalk,Norwalk,Warren,41.483657,-93.695487
+5A,1,Group,South-central,Ottumwa,Ottumwa,Wapello,41.022251,-92.423263
+5A,1,Group,South-central,Southeast Polk,Pleasant Hill,Polk,41.599106,-93.505047
+5A,1,Group,South-central,Waukee Northwest,Waukee,Dallas,41.666800,-93.889500
+5A,2,Group,Central,Cedar Rapids Kennedy,Cedar Rapids,Linn,42.033900,-91.666500
+5A,2,Group,Central,Dallas Center-Grimes,Grimes,Polk,41.677848,-93.802310
+5A,2,Group,Central,Dowling Catholic,West Des Moines,Polk,41.595500,-93.775500
+5A,2,Group,Central,Marshalltown,Marshalltown,Marshall,42.034300,-92.906266
+5A,2,Group,Central,Waterloo West,Waterloo,Black Hawk,42.511000,-92.346000
+5A,2,Group,Central,Waukee,Waukee,Dallas,41.598500,-93.866000
+5A,3,Group,Central,Ames,Ames,Story,42.026327,-93.621264
+5A,3,Group,Central,Ankeny,Ankeny,Polk,41.718500,-93.615500
+5A,3,Group,Central,Council Bluffs Abraham Lincoln,Council Bluffs,Pottawattamie,41.261500,-95.860000
+5A,3,Group,Central,Des Moines Roosevelt,Des Moines,Polk,41.589500,-93.678200
+5A,3,Group,Central,Johnston,Johnston,Polk,41.691950,-93.724456
+5A,3,Group,Central,Sioux City East,Sioux City,Woodbury,42.504800,-96.354800
+5A,4,Group,Central,Ankeny Centennial,Ankeny,Polk,41.732000,-93.572000
+5A,4,Group,Central,Des Moines Lincoln,Des Moines,Polk,41.563800,-93.628800
+5A,4,Group,Central,Indianola,Indianola,Warren,41.362971,-93.565545
+5A,4,Group,Central,Sioux City North,Sioux City,Woodbury,42.523500,-96.370500
+5A,4,Group,Central,Urbandale,Urbandale,Polk,41.636794,-93.779833
+5A,4,Group,Central,Valley,West Des Moines,Polk,41.585000,-93.750500
+5A,5,Group,East-central,Bettendorf,Bettendorf,Scott,41.566836,-90.476879
+5A,5,Group,East-central,Cedar Falls,Cedar Falls,Black Hawk,42.519070,-92.454009
+5A,5,Group,East-central,Cedar Rapids Jefferson,Cedar Rapids,Linn,41.959500,-91.699000
+5A,5,Group,East-central,Dubuque Hempstead,Dubuque,Dubuque,42.492000,-90.723500
+5A,5,Group,East-central,Dubuque Senior,Dubuque,Dubuque,42.510500,-90.690500
+5A,5,Group,East-central,Prairie,Cedar Rapids,Linn,41.931500,-91.723500
+5A,6,Group,East-central,Davenport Central,Davenport,Scott,41.530000,-90.575500
+5A,6,Group,East-central,Iowa City Liberty,North Liberty,Johnson,41.732800,-91.608500
+5A,6,Group,East-central,Iowa City West,Iowa City,Johnson,41.656500,-91.564000
+5A,6,Group,East-central,Linn-Mar,Marion,Linn,42.048500,-91.596500
+5A,6,Group,East-central,Muscatine,Muscatine,Muscatine,41.419058,-91.067946
+5A,6,Group,East-central,Pleasant Valley,Riverdale,Scott,41.537276,-90.463583
+4A,1,District,Northwest,Fort Dodge,Fort Dodge,Webster,42.509863,-94.175675
+4A,1,District,Northwest,LeMars,Le Mars,Plymouth,42.781514,-96.173311
+4A,1,District,Northwest,Sergeant Bluff-Luton,Sergeant Bluff,Woodbury,42.397549,-96.350934
+4A,1,District,Northwest,Sioux City West,Sioux City,Woodbury,42.489500,-96.398000
+4A,1,District,Northwest,Spencer,Spencer,Clay,43.147025,-95.152691
+4A,1,District,Northwest,Storm Lake,Storm Lake,Buena Vista,42.642951,-95.196463
+4A,2,District,Northeast,Cedar Rapids Washington,Cedar Rapids,Linn,41.967800,-91.639500
+4A,2,District,Northeast,Decorah,Decorah,Winneshiek,43.301618,-91.784750
+4A,2,District,Northeast,Mason City,Mason City,Cerro Gordo,43.148585,-93.199840
+4A,2,District,Northeast,Waterloo East,Waterloo,Black Hawk,42.498500,-92.332000
+4A,2,District,Northeast,Waverly-Shell Rock,Waverly,Bremer,42.722049,-92.469462
+4A,2,District,Northeast,Xavier,Cedar Rapids,Linn,42.045500,-91.667800
+4A,3,District,East-central,Burlington,Burlington,Des Moines,40.807102,-91.123676
+4A,3,District,East-central,Clinton,Clinton,Clinton,41.842365,-90.242816
+4A,3,District,East-central,Davenport North,Davenport,Scott,41.557500,-90.585000
+4A,3,District,East-central,Davenport West,Davenport,Scott,41.538000,-90.618500
+4A,3,District,East-central,North Scott,Eldridge,Scott,41.639034,-90.580918
+4A,3,District,East-central,Western Dubuque,Epworth,Dubuque,42.446542,-90.931383
+4A,4,District,Central,Clear Creek-Amana,Tiffin,Johnson,41.705034,-91.654397
+4A,4,District,Central,Grinnell,Grinnell,Poweshiek,41.735236,-92.724902
+4A,4,District,Central,Marion,Marion,Linn,42.045394,-91.586155
+4A,4,District,Central,Newton,Newton,Jasper,41.696337,-93.040512
+4A,4,District,Central,Oskaloosa,Oskaloosa,Mahaska,41.292209,-92.640854
+4A,4,District,Central,Pella,Pella,Marion,41.408000,-92.916000
+4A,5,District,Central,Ballard,Huxley,Story,41.896551,-93.591995
+4A,5,District,Central,Bondurant-Farrar,Bondurant,Polk,41.698000,-93.457741
+4A,5,District,Central,Carlisle,Carlisle,Polk,41.513593,-93.496811
+4A,5,District,Central,Des Moines North,Des Moines,Polk,41.630000,-93.620500
+4A,5,District,Central,Gilbert,Gilbert,Story,42.106197,-93.646053
+4A,5,District,Central,North Polk,Alleman,Polk,41.815182,-93.612637
+4A,6,District,Southwest,ADM,Adel,Dallas,41.609388,-94.012663
+4A,6,District,Southwest,Boone,Boone,Boone,42.049257,-93.872526
+4A,6,District,Southwest,Council Bluffs Thomas Jefferson,Council Bluffs,Pottawattamie,41.261800,-95.881500
+4A,6,District,Southwest,Denison-Schleswig,Denison,Crawford,42.016443,-95.352861
+4A,6,District,Southwest,Glenwood,Glenwood,Mills,41.044701,-95.740606
+4A,6,District,Southwest,Lewis Central,Council Bluffs,Pottawattamie,41.229500,-95.837000
+3A,1,District,Northwest,Algona,Algona,Kossuth,43.076345,-94.231746
+3A,1,District,Northwest,Bishop Heelan Catholic,Sioux City,Woodbury,42.496500,-96.400500
+3A,1,District,Northwest,Humboldt,Humboldt,Humboldt,42.722928,-94.225020
+3A,1,District,Northwest,MOC-Floyd Valley,Orange City,Sioux,43.001805,-96.055251
+3A,1,District,Northwest,Sioux Center,Sioux Center,Sioux,43.074790,-96.170407
+3A,1,District,Northwest,Webster City,Webster City,Hamilton,42.462423,-93.818201
+3A,2,District,North-central,Benton Community,Van Horne,Benton,42.008311,-92.089718
+3A,2,District,North-central,Charles City,Charles City,Floyd,43.064760,-92.674457
+3A,2,District,North-central,Clear Lake,Clear Lake,Cerro Gordo,43.135090,-93.373651
+3A,2,District,North-central,Independence,Independence,Buchanan,42.462193,-91.903152
+3A,2,District,North-central,Iowa Falls-Alden,Iowa Falls,Hardin,42.519169,-93.266050
+3A,2,District,North-central,West Delaware,Manchester,Delaware,42.485339,-91.456086
+3A,3,District,East-central,Assumption,Davenport,Scott,41.538500,-90.592000
+3A,3,District,East-central,Center Point-Urbana,Center Point,Linn,42.184604,-91.779891
+3A,3,District,East-central,Central DeWitt,DeWitt,Clinton,41.822712,-90.544087
+3A,3,District,East-central,Maquoketa,Maquoketa,Jackson,42.060530,-90.663862
+3A,3,District,East-central,Mount Vernon,Mount Vernon,Linn,41.923650,-91.423763
+3A,3,District,East-central,Wahlert Catholic,Dubuque,Dubuque,42.515500,-90.689000
+3A,4,District,Southeast,Fairfield,Fairfield,Jefferson,41.006376,-91.966628
+3A,4,District,Southeast,Fort Madison,Fort Madison,Lee,40.620781,-91.349470
+3A,4,District,Southeast,Keokuk,Keokuk,Lee,40.409546,-91.402511
+3A,4,District,Southeast,Mount Pleasant,Mount Pleasant,Henry,40.962205,-91.547162
+3A,4,District,Southeast,Solon,Solon,Johnson,41.806827,-91.498922
+3A,4,District,Southeast,Washington,Washington,Washington,41.297913,-91.693671
+3A,5,District,Central,Des Moines Christian,Urbandale,Polk,41.638500,-93.736000
+3A,5,District,Central,Knoxville,Knoxville,Marion,41.318484,-93.102624
+3A,5,District,Central,Nevada,Nevada,Story,42.017490,-93.469674
+3A,5,District,Central,Saydel,Saylorville,Polk,41.650500,-93.616000
+3A,5,District,Central,Williamsburg,Williamsburg,Iowa,41.668884,-92.013249
+3A,5,District,Central,Winterset,Winterset,Madison,41.349897,-94.018065
+3A,6,District,Central,Atlantic,Atlantic,Cass,41.392994,-95.021882
+3A,6,District,Central,Carroll,Carroll,Carroll,42.070267,-94.864283
+3A,6,District,Central,Creston,Creston,Union,41.060314,-94.364727
+3A,6,District,Central,Greene County,Jefferson,Greene,42.017743,-94.379422
+3A,6,District,Central,Harlan,Harlan,Shelby,41.649529,-95.326788
+3A,6,District,Central,Perry,Perry,Dallas,41.837907,-94.093255
+2A,1,District,Northwest,Boyden-Hull/Rock Valley,Boyden,Sioux,43.189116,-96.003151
+2A,1,District,Northwest,Boyden-Hull/Rock Valley,Rock Valley,Sioux,43.202585,-96.289038
+2A,1,District,Northwest,Central Lyon/George-Little Rock,Rock Rapids,Lyon,43.426699,-96.166393
+2A,1,District,Northwest,Central Lyon/George-Little Rock,George,Lyon,43.341873,-96.003257
+2A,1,District,Northwest,Cherokee,Cherokee,Cherokee,42.749499,-95.552159
+2A,1,District,Northwest,Sheldon,Sheldon,O'Brien,43.179654,-95.843353
+2A,1,District,Northwest,Unity Christian,Orange City,Sioux,43.001805,-96.055251
+2A,1,District,Northwest,Western Christian,Hull,Sioux,43.189500,-96.134100
+2A,2,District,Northwest,Estherville Lincoln Central,Estherville,Emmet,43.399735,-94.834216
+2A,2,District,Northwest,Kuemper Catholic,Carroll,Carroll,42.070267,-94.864283
+2A,2,District,Northwest,OABCIG,Ida Grove,Ida,42.343240,-95.473368
+2A,2,District,Northwest,Okoboji,Milford,Dickinson,43.341717,-95.145709
+2A,2,District,Northwest,Southeast Valley,Gowrie,Webster,42.277932,-94.289735
+2A,2,District,Northwest,Spirit Lake,Spirit Lake,Dickinson,43.416659,-95.113071
+2A,3,District,North-central,Crestwood,Cresco,Howard,43.371746,-92.116287
+2A,3,District,North-central,Forest City,Forest City,Winnebago,43.257083,-93.636556
+2A,3,District,North-central,New Hampton,New Hampton,Chickasaw,43.056219,-92.314725
+2A,3,District,North-central,North Fayette Valley,West Union,Fayette,42.958873,-91.813024
+2A,3,District,North-central,Osage,Osage,Mitchell,43.282673,-92.811317
+2A,3,District,North-central,Waukon,Waukon,Allamakee,43.268519,-91.478492
+2A,4,District,Central,Denver,Denver,Bremer,42.668220,-92.333942
+2A,4,District,Central,Dike-New Hartford,Dike,Grundy,42.464121,-92.625566
+2A,4,District,Central,Hampton-Dumont-CAL,Hampton,Franklin,42.741989,-93.204992
+2A,4,District,Central,Oelwein,Oelwein,Fayette,42.671581,-91.912787
+2A,4,District,Central,Roland-Story,Story City,Story,42.185743,-93.586885
+2A,4,District,Central,Vinton-Shellsburg,Vinton,Benton,42.163106,-92.026206
+2A,5,District,East-central,Alburnett,Alburnett,Linn,42.148939,-91.620108
+2A,5,District,East-central,Anamosa,Anamosa,Jones,42.108825,-91.275205
+2A,5,District,East-central,Bellevue,Bellevue,Jackson,42.262695,-90.431458
+2A,5,District,East-central,Monticello,Monticello,Jones,42.230425,-91.185925
+2A,5,District,East-central,Tipton,Tipton,Cedar,41.770121,-91.128281
+2A,5,District,East-central,West Branch,West Branch,Cedar,41.666158,-91.344197
+2A,6,District,Southeast,Central Lee,Donnellson,Lee,40.645318,-91.564097
+2A,6,District,Southeast,Mediapolis,Mediapolis,Des Moines,41.007867,-91.163720
+2A,6,District,Southeast,Mid-Prairie,Wellman,Washington,41.469238,-91.835247
+2A,6,District,Southeast,West Burlington/Notre Dame,West Burlington,Des Moines,40.821628,-91.175475
+2A,6,District,Southeast,West Burlington/Notre Dame,Burlington,Des Moines,40.807102,-91.123676
+2A,6,District,Southeast,West Liberty,West Liberty,Muscatine,41.572995,-91.262639
+2A,6,District,Southeast,Wilton,Wilton,Muscatine,41.589109,-91.025481
+2A,7,District,South-central,Albia,Albia,Monroe,41.026511,-92.803778
+2A,7,District,South-central,Centerville,Centerville,Appanoose,40.729839,-92.872033
+2A,7,District,South-central,Davis County,Bloomfield,Davis,40.749108,-92.417031
+2A,7,District,South-central,PCM,Monroe,Jasper,41.518945,-93.103739
+2A,7,District,South-central,Pella Christian,Pella,Marion,41.400000,-92.905000
+2A,7,District,South-central,South Tama County,Tama,Tama,41.965123,-92.573799
+2A,8,District,South-central,Chariton,Chariton,Lucas,41.017447,-93.309629
+2A,8,District,South-central,Clarinda,Clarinda,Page,40.737707,-95.033748
+2A,8,District,South-central,Clarke,Osceola,Clarke,41.029726,-93.785259
+2A,8,District,South-central,Grand View Christian,Des Moines,Polk,41.620500,-93.598000
+2A,8,District,South-central,Van Meter,Van Meter,Dallas,41.524638,-93.944180
+2A,8,District,South-central,Woodward-Granger,Woodward,Dallas,41.852764,-93.920730
+1A,1,District,Northwest,Alta-Aurelia,Alta,Buena Vista,42.671677,-95.304513
+1A,1,District,Northwest,Hinton,Hinton,Plymouth,42.622790,-96.298150
+1A,1,District,Northwest,Lawton-Bronson,Lawton,Woodbury,42.476974,-96.185092
+1A,1,District,Northwest,MVAOCOU,Mapleton,Monona,42.167315,-95.790869
+1A,1,District,Northwest,Ridge View,Holstein,Ida,42.487149,-95.542877
+1A,1,District,Northwest,West Lyon,Inwood,Lyon,43.309209,-96.434357
+1A,2,District,Central,East Sac County,Lake View,Sac,42.301996,-95.035761
+1A,2,District,Central,Emmetsburg,Emmetsburg,Palo Alto,43.114798,-94.679579
+1A,2,District,Central,Manson Northwest Webster,Manson,Calhoun,42.528638,-94.540064
+1A,2,District,Central,Pocahontas Area,Pocahontas,Pocahontas,42.737021,-94.666046
+1A,2,District,Central,South Central Calhoun,Lake City,Calhoun,42.267670,-94.731054
+1A,2,District,Central,South Hamilton,Jewell,Hamilton,42.311647,-93.638709
+1A,3,District,North-central,Central Springs,Manly,Worth,43.288254,-93.200815
+1A,3,District,North-central,Clarion-Goldfield-Dows,Clarion,Wright,42.731971,-93.729808
+1A,3,District,North-central,Eagle Grove,Eagle Grove,Wright,42.666336,-93.902429
+1A,3,District,North-central,Garner-Hayfield-Ventura,Garner,Hancock,43.099971,-93.603118
+1A,3,District,North-central,Grundy Center,Grundy Center,Grundy,42.363729,-92.774017
+1A,3,District,North-central,South Hardin,Eldora,Hardin,42.360533,-93.101295
+1A,4,District,Central,Aplington-Parkersburg,Parkersburg,Butler,42.573851,-92.778450
+1A,4,District,Central,Columbus Catholic,Waterloo,Black Hawk,42.492000,-92.357000
+1A,4,District,Central,Hudson,Hudson,Black Hawk,42.434882,-92.451284
+1A,4,District,Central,Jesup,Jesup,Buchanan,42.474540,-92.065636
+1A,4,District,Central,Sumner-Fredericksburg,Sumner,Bremer,42.849372,-92.097154
+1A,4,District,Central,Union,La Porte City,Black Hawk,42.313759,-92.190878
+1A,5,District,East-central,Beckman Catholic,Dyersville,Dubuque,42.481486,-91.116598
+1A,5,District,East-central,Camanche,Camanche,Clinton,41.792708,-90.276227
+1A,5,District,East-central,Cascade,Cascade,Dubuque,42.301800,-91.004658
+1A,5,District,East-central,Lisbon,Lisbon,Linn,41.920480,-91.391602
+1A,5,District,East-central,MFL MarMac,Monona,Clayton,43.049843,-91.391056
+1A,5,District,East-central,Northeast,Goose Lake,Clinton,41.967640,-90.381829
+1A,6,District,Southeast,Cardinal,Eldon,Wapello,40.918004,-92.218227
+1A,6,District,Southeast,Durant,Durant,Cedar,41.601134,-90.913810
+1A,6,District,Southeast,Eddyville-Blakesburg-Fremont,Eddyville,Wapello,41.159335,-92.630333
+1A,6,District,Southeast,Louisa-Muscatine,Letts,Louisa,41.330017,-91.235390
+1A,6,District,Southeast,Regina,Iowa City,Johnson,41.661000,-91.503000
+1A,6,District,Southeast,Sigourney/Keota,Sigourney,Keokuk,41.333974,-92.204448
+1A,6,District,Southeast,Sigourney/Keota,Keota,Keokuk,41.365129,-91.953314
+1A,7,District,Central,Interstate 35,Truro,Madison,41.209794,-93.846711
+1A,7,District,Central,Ogden,Ogden,Boone,42.039479,-94.028288
+1A,7,District,Central,Panorama,Panora,Guthrie,41.691126,-94.363909
+1A,7,District,Central,Pleasantville,Pleasantville,Marion,41.387011,-93.272787
+1A,7,District,Central,West Central Valley,Stuart,Adair,41.500464,-94.318105
+1A,7,District,Central,West Marshall,State Center,Marshall,42.014821,-93.165304
+1A,8,District,Southwest,Missouri Valley,Missouri Valley,Harrison,41.559319,-95.902635
+1A,8,District,Southwest,Red Oak,Red Oak,Montgomery,41.014130,-95.224371
+1A,8,District,Southwest,Shenandoah,Shenandoah,Page,40.758206,-95.372068
+1A,8,District,Southwest,Treynor,Treynor,Pottawattamie,41.232024,-95.606455
+1A,8,District,Southwest,Tri-Center,Neola,Pottawattamie,41.451904,-95.618914
+1A,8,District,Southwest,Underwood,Underwood,Pottawattamie,41.380243,-95.682510
+A,1,District,Northwest,Gehlen Catholic,Le Mars,Plymouth,42.781514,-96.173311
+A,1,District,Northwest,Hartley-Melvin-Sanborn,Hartley,O'Brien,43.179058,-95.476755
+A,1,District,Northwest,MMCRU,Marcus,Cherokee,42.822401,-95.806842
+A,1,District,Northwest,Sibley-Ocheyedan,Sibley,Osceola,43.401476,-95.743031
+A,1,District,Northwest,Sioux Central,Sioux Rapids,Buena Vista,42.891672,-95.148538
+A,1,District,Northwest,South O'Brien,Paullina,O'Brien,42.979860,-95.683443
+A,1,District,Northwest,West Sioux,Hawarden,Sioux,43.001314,-96.482908
+A,2,District,North-central,AGWSR,Ackley,Hardin,42.551695,-93.052272
+A,2,District,North-central,BCLUW,Conrad,Grundy,42.223393,-92.874083
+A,2,District,North-central,Belmond-Klemme,Belmond,Wright,42.846432,-93.608449
+A,2,District,North-central,Lake Mills,Lake Mills,Winnebago,43.417081,-93.531588
+A,2,District,North-central,Newman Catholic,Mason City,Cerro Gordo,43.148000,-93.185000
+A,2,District,North-central,West Fork,Sheffield,Franklin,42.888763,-93.207143
+A,2,District,North-central,West Hancock,Britt,Hancock,43.098438,-93.803057
+A,3,District,Northeast,Clayton Ridge,Guttenberg,Clayton,42.788556,-91.108775
+A,3,District,Northeast,Nashua-Plainfield,Nashua,Chickasaw,42.950393,-92.542538
+A,3,District,Northeast,North Butler,Greene,Butler,42.896506,-92.803538
+A,3,District,Northeast,Postville,Postville,Allamakee,43.084157,-91.567690
+A,3,District,Northeast,Saint Ansgar,St. Ansgar,Mitchell,43.379893,-92.917791
+A,3,District,Northeast,South Winneshiek,Calmar,Winneshiek,43.181104,-91.867965
+A,3,District,Northeast,Starmont,Arlington,Fayette,42.748751,-91.671010
+A,4,District,East-central,East Marshall,Le Grand,Marshall,42.007186,-92.775058
+A,4,District,East-central,East Buchanan,Winthrop,Buchanan,42.470766,-91.737378
+A,4,District,East-central,Maquoketa Valley,Delhi,Delaware,42.433719,-91.325945
+A,4,District,East-central,Midland,Wyoming,Jones,42.059542,-91.005188
+A,4,District,East-central,North Cedar,Stanwood,Cedar,41.892697,-91.148758
+A,4,District,East-central,North Linn,Troy Mills,Linn,42.289400,-91.682800
+A,4,District,East-central,Wapsie Valley,Fairbank,Buchanan,42.640139,-92.047788
+A,5,District,Southeast,Columbus Community,Columbus Junction,Louisa,41.278853,-91.363933
+A,5,District,Southeast,Danville,Danville,Des Moines,40.859951,-91.314519
+A,5,District,Southeast,Highland,Riverside,Washington,41.483235,-91.572195
+A,5,District,Southeast,New London,New London,Henry,40.922919,-91.400663
+A,5,District,Southeast,Pekin,Packwood,Jefferson,41.132711,-92.082517
+A,5,District,Southeast,Van Buren County,Keosauqua,Van Buren,40.734640,-91.960305
+A,5,District,Southeast,Wapello,Wapello,Louisa,41.177222,-91.188991
+A,6,District,Central,BGM,Brooklyn,Poweshiek,41.732052,-92.444981
+A,6,District,Central,Colfax-Mingo,Colfax,Jasper,41.679794,-93.236280
+A,6,District,Central,Earlham,Earlham,Madison,41.494410,-94.122283
+A,6,District,Central,Lynnville-Sully,Sully,Jasper,41.577998,-92.846792
+A,6,District,Central,Madrid,Madrid,Boone,41.875688,-93.820526
+A,6,District,Central,Martensdale-St. Marys,Martensdale,Warren,41.373750,-93.738800
+A,6,District,Central,North Mahaska,New Sharon,Mahaska,41.470056,-92.650966
+A,7,District,South-central,ACGC,Guthrie Center,Guthrie,41.677935,-94.499153
+A,7,District,South-central,AHSTW,Avoca,Pottawattamie,41.482816,-95.337261
+A,7,District,South-central,Central Decatur,Leon,Decatur,40.741341,-93.755571
+A,7,District,South-central,Mount Ayr,Mount Ayr,Ringgold,40.714071,-94.237225
+A,7,District,South-central,Nodaway Valley,Greenfield,Adair,41.305797,-94.459268
+A,7,District,South-central,Riverside,Oakland,Pottawattamie,41.310370,-95.399703
+A,7,District,South-central,Southwest Valley,Corning,Adams,40.992369,-94.738794
+A,8,District,West-central,Akron-Westfield,Akron,Plymouth,42.826768,-96.557027
+A,8,District,West-central,IKM-Manning,Manning,Carroll,41.909630,-95.064442
+A,8,District,West-central,Logan-Magnolia,Logan,Harrison,41.645409,-95.791253
+A,8,District,West-central,St. Albert,Council Bluffs,Pottawattamie,41.261000,-95.835000
+A,8,District,West-central,West Monona,Onawa,Monona,42.026476,-96.090917
+A,8,District,West-central,Westwood,Sloan,Woodbury,42.233062,-96.224830
+A,8,District,West-central,Woodbury Central,Moville,Woodbury,42.490235,-96.067924

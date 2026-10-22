@@ -1,0 +1,449 @@
+{
+  "id": "5A",
+  "label": "Class 5A",
+  "unit": "Group",
+  "teams": [
+    {
+      "district": 1,
+      "school": "Des Moines East",
+      "places": [
+        {
+          "gazetteer": "Des Moines",
+          "display": "Des Moines",
+          "lon": -93.6075,
+          "lat": 41.5958
+        }
+      ],
+      "map_label": "East"
+    },
+    {
+      "district": 1,
+      "school": "Iowa City City High",
+      "places": [
+        {
+          "gazetteer": "Iowa City",
+          "display": "Iowa City",
+          "lon": -91.5112,
+          "lat": 41.668
+        }
+      ],
+      "map_label": "City High"
+    },
+    {
+      "district": 1,
+      "school": "Norwalk",
+      "places": [
+        {
+          "gazetteer": "Norwalk",
+          "display": "Norwalk"
+        }
+      ],
+      "map_label": "Norwalk"
+    },
+    {
+      "district": 1,
+      "school": "Ottumwa",
+      "places": [
+        {
+          "gazetteer": "Ottumwa",
+          "display": "Ottumwa"
+        }
+      ],
+      "map_label": "Ottumwa"
+    },
+    {
+      "district": 1,
+      "school": "Southeast Polk",
+      "places": [
+        {
+          "gazetteer": "Pleasant Hill",
+          "display": "Pleasant Hill"
+        }
+      ],
+      "map_label": "SE Polk\nPleasant Hill"
+    },
+    {
+      "district": 1,
+      "school": "Waukee Northwest",
+      "places": [
+        {
+          "gazetteer": "Waukee",
+          "display": "Waukee",
+          "lon": -93.8895,
+          "lat": 41.6668
+        }
+      ],
+      "map_label": "Waukee NW"
+    },
+    {
+      "district": 2,
+      "school": "Cedar Rapids Kennedy",
+      "places": [
+        {
+          "gazetteer": "Cedar Rapids",
+          "display": "Cedar Rapids",
+          "lon": -91.6665,
+          "lat": 42.0339
+        }
+      ],
+      "map_label": "Kennedy"
+    },
+    {
+      "district": 2,
+      "school": "Dallas Center-Grimes",
+      "places": [
+        {
+          "gazetteer": "Grimes",
+          "display": "Grimes"
+        }
+      ],
+      "map_label": "DC-G\nGrimes"
+    },
+    {
+      "district": 2,
+      "school": "Dowling Catholic",
+      "places": [
+        {
+          "gazetteer": "West Des Moines",
+          "display": "West Des Moines",
+          "lon": -93.7755,
+          "lat": 41.5955
+        }
+      ],
+      "map_label": "Dowling"
+    },
+    {
+      "district": 2,
+      "school": "Marshalltown",
+      "places": [
+        {
+          "gazetteer": "Marshalltown",
+          "display": "Marshalltown"
+        }
+      ],
+      "map_label": "Marshalltown"
+    },
+    {
+      "district": 2,
+      "school": "Waterloo West",
+      "places": [
+        {
+          "gazetteer": "Waterloo",
+          "display": "Waterloo",
+          "lon": -92.346,
+          "lat": 42.511
+        }
+      ],
+      "map_label": "West\nWaterloo"
+    },
+    {
+      "district": 2,
+      "school": "Waukee",
+      "places": [
+        {
+          "gazetteer": "Waukee",
+          "display": "Waukee",
+          "lon": -93.866,
+          "lat": 41.5985
+        }
+      ],
+      "map_label": "Waukee"
+    },
+    {
+      "district": 3,
+      "school": "Ames",
+      "places": [
+        {
+          "gazetteer": "Ames",
+          "display": "Ames"
+        }
+      ],
+      "map_label": "Ames"
+    },
+    {
+      "district": 3,
+      "school": "Ankeny",
+      "places": [
+        {
+          "gazetteer": "Ankeny",
+          "display": "Ankeny",
+          "lon": -93.6155,
+          "lat": 41.7185
+        }
+      ],
+      "map_label": "Ankeny"
+    },
+    {
+      "district": 3,
+      "school": "Council Bluffs Abraham Lincoln",
+      "places": [
+        {
+          "gazetteer": "Council Bluffs",
+          "display": "Council Bluffs",
+          "lon": -95.86,
+          "lat": 41.2615
+        }
+      ],
+      "map_label": "Abraham Lincoln"
+    },
+    {
+      "district": 3,
+      "school": "Des Moines Roosevelt",
+      "places": [
+        {
+          "gazetteer": "Des Moines",
+          "display": "Des Moines",
+          "lon": -93.6782,
+          "lat": 41.5895
+        }
+      ],
+      "map_label": "Roosevelt"
+    },
+    {
+      "district": 3,
+      "school": "Johnston",
+      "places": [
+        {
+          "gazetteer": "Johnston",
+          "display": "Johnston"
+        }
+      ],
+      "map_label": "Johnston"
+    },
+    {
+      "district": 3,
+      "school": "Sioux City East",
+      "places": [
+        {
+          "gazetteer": "Sioux City",
+          "display": "Sioux City",
+          "lon": -96.3548,
+          "lat": 42.5048
+        }
+      ],
+      "map_label": "East\nSioux City"
+    },
+    {
+      "district": 4,
+      "school": "Ankeny Centennial",
+      "places": [
+        {
+          "gazetteer": "Ankeny",
+          "display": "Ankeny",
+          "lon": -93.572,
+          "lat": 41.732
+        }
+      ],
+      "map_label": "Centennial"
+    },
+    {
+      "district": 4,
+      "school": "Des Moines Lincoln",
+      "places": [
+        {
+          "gazetteer": "Des Moines",
+          "display": "Des Moines",
+          "lon": -93.6288,
+          "lat": 41.5638
+        }
+      ],
+      "map_label": "Lincoln"
+    },
+    {
+      "district": 4,
+      "school": "Indianola",
+      "places": [
+        {
+          "gazetteer": "Indianola",
+          "display": "Indianola"
+        }
+      ],
+      "map_label": "Indianola"
+    },
+    {
+      "district": 4,
+      "school": "Sioux City North",
+      "places": [
+        {
+          "gazetteer": "Sioux City",
+          "display": "Sioux City",
+          "lon": -96.3705,
+          "lat": 42.5235
+        }
+      ],
+      "map_label": "North\nSioux City"
+    },
+    {
+      "district": 4,
+      "school": "Urbandale",
+      "places": [
+        {
+          "gazetteer": "Urbandale",
+          "display": "Urbandale"
+        }
+      ],
+      "map_label": "Urbandale"
+    },
+    {
+      "district": 4,
+      "school": "Valley",
+      "places": [
+        {
+          "gazetteer": "West Des Moines",
+          "display": "West Des Moines",
+          "lon": -93.7505,
+          "lat": 41.585
+        }
+      ],
+      "map_label": "Valley"
+    },
+    {
+      "district": 5,
+      "school": "Bettendorf",
+      "places": [
+        {
+          "gazetteer": "Bettendorf",
+          "display": "Bettendorf"
+        }
+      ],
+      "map_label": "Bettendorf"
+    },
+    {
+      "district": 5,
+      "school": "Cedar Falls",
+      "places": [
+        {
+          "gazetteer": "Cedar Falls",
+          "display": "Cedar Falls"
+        }
+      ],
+      "map_label": "Cedar Falls"
+    },
+    {
+      "district": 5,
+      "school": "Cedar Rapids Jefferson",
+      "places": [
+        {
+          "gazetteer": "Cedar Rapids",
+          "display": "Cedar Rapids",
+          "lon": -91.699,
+          "lat": 41.9595
+        }
+      ],
+      "map_label": "Jefferson"
+    },
+    {
+      "district": 5,
+      "school": "Dubuque Hempstead",
+      "places": [
+        {
+          "gazetteer": "Dubuque",
+          "display": "Dubuque",
+          "lon": -90.7235,
+          "lat": 42.492
+        }
+      ],
+      "map_label": "Hempstead"
+    },
+    {
+      "district": 5,
+      "school": "Dubuque Senior",
+      "places": [
+        {
+          "gazetteer": "Dubuque",
+          "display": "Dubuque",
+          "lon": -90.6905,
+          "lat": 42.5105
+        }
+      ],
+      "map_label": "Senior"
+    },
+    {
+      "district": 5,
+      "school": "Prairie",
+      "places": [
+        {
+          "gazetteer": "Cedar Rapids",
+          "display": "Cedar Rapids",
+          "lon": -91.7235,
+          "lat": 41.9315
+        }
+      ],
+      "map_label": "Prairie"
+    },
+    {
+      "district": 6,
+      "school": "Davenport Central",
+      "places": [
+        {
+          "gazetteer": "Davenport",
+          "display": "Davenport",
+          "lon": -90.5755,
+          "lat": 41.53
+        }
+      ],
+      "map_label": "Central"
+    },
+    {
+      "district": 6,
+      "school": "Iowa City Liberty",
+      "places": [
+        {
+          "gazetteer": "North Liberty",
+          "display": "North Liberty",
+          "lon": -91.6085,
+          "lat": 41.7328
+        }
+      ],
+      "map_label": "Liberty"
+    },
+    {
+      "district": 6,
+      "school": "Iowa City West",
+      "places": [
+        {
+          "gazetteer": "Iowa City",
+          "display": "Iowa City",
+          "lon": -91.564,
+          "lat": 41.6565
+        }
+      ],
+      "map_label": "West"
+    },
+    {
+      "district": 6,
+      "school": "Linn-Mar",
+      "places": [
+        {
+          "gazetteer": "Marion",
+          "display": "Marion",
+          "lon": -91.5965,
+          "lat": 42.0485
+        }
+      ],
+      "map_label": "Linn-Mar"
+    },
+    {
+      "district": 6,
+      "school": "Muscatine",
+      "places": [
+        {
+          "gazetteer": "Muscatine",
+          "display": "Muscatine"
+        }
+      ],
+      "map_label": "Muscatine"
+    },
+    {
+      "district": 6,
+      "school": "Pleasant Valley",
+      "places": [
+        {
+          "gazetteer": "Riverdale",
+          "display": "Riverdale"
+        }
+      ],
+      "map_label": "Pleasant Valley\nRiverdale"
+    }
+  ]
+}

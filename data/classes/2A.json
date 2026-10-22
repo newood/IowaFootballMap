@@ -1,0 +1,553 @@
+{
+  "id": "2A",
+  "label": "Class 2A",
+  "unit": "District",
+  "teams": [
+    {
+      "district": 1,
+      "school": "Boyden-Hull/Rock Valley",
+      "places": [
+        {
+          "gazetteer": "Boyden",
+          "display": "Boyden"
+        },
+        {
+          "gazetteer": "Rock Valley",
+          "display": "Rock Valley"
+        }
+      ],
+      "map_label": null
+    },
+    {
+      "district": 1,
+      "school": "Central Lyon/George-Little Rock",
+      "places": [
+        {
+          "gazetteer": "Rock Rapids",
+          "display": "Rock Rapids"
+        },
+        {
+          "gazetteer": "George",
+          "display": "George"
+        }
+      ],
+      "map_label": null
+    },
+    {
+      "district": 1,
+      "school": "Cherokee",
+      "places": [
+        {
+          "gazetteer": "Cherokee",
+          "display": "Cherokee"
+        }
+      ],
+      "map_label": "Cherokee"
+    },
+    {
+      "district": 1,
+      "school": "Sheldon",
+      "places": [
+        {
+          "gazetteer": "Sheldon",
+          "display": "Sheldon"
+        }
+      ],
+      "map_label": "Sheldon"
+    },
+    {
+      "district": 1,
+      "school": "Unity Christian",
+      "places": [
+        {
+          "gazetteer": "Orange City",
+          "display": "Orange City"
+        }
+      ],
+      "map_label": "Unity Christian\nOrange City"
+    },
+    {
+      "district": 1,
+      "school": "Western Christian",
+      "places": [
+        {
+          "gazetteer": "Hull",
+          "display": "Hull",
+          "lon": -96.1341,
+          "lat": 43.1895
+        }
+      ],
+      "map_label": "Western Christian\nHull"
+    },
+    {
+      "district": 2,
+      "school": "Estherville Lincoln Central",
+      "places": [
+        {
+          "gazetteer": "Estherville",
+          "display": "Estherville"
+        }
+      ],
+      "map_label": "Estherville"
+    },
+    {
+      "district": 2,
+      "school": "Kuemper Catholic",
+      "places": [
+        {
+          "gazetteer": "Carroll",
+          "display": "Carroll"
+        }
+      ],
+      "map_label": "Kuemper\nCarroll"
+    },
+    {
+      "district": 2,
+      "school": "OABCIG",
+      "places": [
+        {
+          "gazetteer": "Ida Grove",
+          "display": "Ida Grove"
+        }
+      ],
+      "map_label": "OABCIG\nIda Grove"
+    },
+    {
+      "district": 2,
+      "school": "Okoboji",
+      "places": [
+        {
+          "gazetteer": "Milford",
+          "display": "Milford"
+        }
+      ],
+      "map_label": "Okoboji\nMilford"
+    },
+    {
+      "district": 2,
+      "school": "Southeast Valley",
+      "places": [
+        {
+          "gazetteer": "Gowrie",
+          "display": "Gowrie"
+        }
+      ],
+      "map_label": "SE Valley\nGowrie"
+    },
+    {
+      "district": 2,
+      "school": "Spirit Lake",
+      "places": [
+        {
+          "gazetteer": "Spirit Lake",
+          "display": "Spirit Lake"
+        }
+      ],
+      "map_label": "Spirit Lake"
+    },
+    {
+      "district": 3,
+      "school": "Crestwood",
+      "places": [
+        {
+          "gazetteer": "Cresco",
+          "display": "Cresco"
+        }
+      ],
+      "map_label": "Crestwood\nCresco"
+    },
+    {
+      "district": 3,
+      "school": "Forest City",
+      "places": [
+        {
+          "gazetteer": "Forest City",
+          "display": "Forest City"
+        }
+      ],
+      "map_label": "Forest City"
+    },
+    {
+      "district": 3,
+      "school": "New Hampton",
+      "places": [
+        {
+          "gazetteer": "New Hampton",
+          "display": "New Hampton"
+        }
+      ],
+      "map_label": "New Hampton"
+    },
+    {
+      "district": 3,
+      "school": "North Fayette Valley",
+      "places": [
+        {
+          "gazetteer": "West Union",
+          "display": "West Union"
+        }
+      ],
+      "map_label": "North Fayette\nWest Union"
+    },
+    {
+      "district": 3,
+      "school": "Osage",
+      "places": [
+        {
+          "gazetteer": "Osage",
+          "display": "Osage"
+        }
+      ],
+      "map_label": "Osage"
+    },
+    {
+      "district": 3,
+      "school": "Waukon",
+      "places": [
+        {
+          "gazetteer": "Waukon",
+          "display": "Waukon"
+        }
+      ],
+      "map_label": "Waukon"
+    },
+    {
+      "district": 4,
+      "school": "Denver",
+      "places": [
+        {
+          "gazetteer": "Denver",
+          "display": "Denver"
+        }
+      ],
+      "map_label": "Denver"
+    },
+    {
+      "district": 4,
+      "school": "Dike-New Hartford",
+      "places": [
+        {
+          "gazetteer": "Dike",
+          "display": "Dike"
+        }
+      ],
+      "map_label": "Dike-NH"
+    },
+    {
+      "district": 4,
+      "school": "Hampton-Dumont-CAL",
+      "places": [
+        {
+          "gazetteer": "Hampton",
+          "display": "Hampton"
+        }
+      ],
+      "map_label": "Hampton-Dumont"
+    },
+    {
+      "district": 4,
+      "school": "Oelwein",
+      "places": [
+        {
+          "gazetteer": "Oelwein",
+          "display": "Oelwein"
+        }
+      ],
+      "map_label": "Oelwein"
+    },
+    {
+      "district": 4,
+      "school": "Roland-Story",
+      "places": [
+        {
+          "gazetteer": "Story City",
+          "display": "Story City"
+        }
+      ],
+      "map_label": "Roland-Story\nStory City"
+    },
+    {
+      "district": 4,
+      "school": "Vinton-Shellsburg",
+      "places": [
+        {
+          "gazetteer": "Vinton",
+          "display": "Vinton"
+        }
+      ],
+      "map_label": "Vinton-\nShellsburg"
+    },
+    {
+      "district": 5,
+      "school": "Alburnett",
+      "places": [
+        {
+          "gazetteer": "Alburnett",
+          "display": "Alburnett"
+        }
+      ],
+      "map_label": "Alburnett"
+    },
+    {
+      "district": 5,
+      "school": "Anamosa",
+      "places": [
+        {
+          "gazetteer": "Anamosa",
+          "display": "Anamosa"
+        }
+      ],
+      "map_label": "Anamosa"
+    },
+    {
+      "district": 5,
+      "school": "Bellevue",
+      "places": [
+        {
+          "gazetteer": "Bellevue",
+          "display": "Bellevue"
+        }
+      ],
+      "map_label": "Bellevue"
+    },
+    {
+      "district": 5,
+      "school": "Monticello",
+      "places": [
+        {
+          "gazetteer": "Monticello",
+          "display": "Monticello"
+        }
+      ],
+      "map_label": "Monticello"
+    },
+    {
+      "district": 5,
+      "school": "Tipton",
+      "places": [
+        {
+          "gazetteer": "Tipton",
+          "display": "Tipton"
+        }
+      ],
+      "map_label": "Tipton"
+    },
+    {
+      "district": 5,
+      "school": "West Branch",
+      "places": [
+        {
+          "gazetteer": "West Branch",
+          "display": "West Branch"
+        }
+      ],
+      "map_label": "West Branch"
+    },
+    {
+      "district": 6,
+      "school": "Central Lee",
+      "places": [
+        {
+          "gazetteer": "Donnellson",
+          "display": "Donnellson"
+        }
+      ],
+      "map_label": "Central Lee\nDonnellson"
+    },
+    {
+      "district": 6,
+      "school": "Mediapolis",
+      "places": [
+        {
+          "gazetteer": "Mediapolis",
+          "display": "Mediapolis"
+        }
+      ],
+      "map_label": "Mediapolis"
+    },
+    {
+      "district": 6,
+      "school": "Mid-Prairie",
+      "places": [
+        {
+          "gazetteer": "Wellman",
+          "display": "Wellman"
+        }
+      ],
+      "map_label": "Mid-Prairie\nWellman"
+    },
+    {
+      "district": 6,
+      "school": "West Burlington/Notre Dame",
+      "places": [
+        {
+          "gazetteer": "West Burlington",
+          "display": "West Burlington"
+        },
+        {
+          "gazetteer": "Burlington",
+          "display": "Burlington"
+        }
+      ],
+      "map_label": null
+    },
+    {
+      "district": 6,
+      "school": "West Liberty",
+      "places": [
+        {
+          "gazetteer": "West Liberty",
+          "display": "West Liberty"
+        }
+      ],
+      "map_label": "West Liberty"
+    },
+    {
+      "district": 6,
+      "school": "Wilton",
+      "places": [
+        {
+          "gazetteer": "Wilton",
+          "display": "Wilton"
+        }
+      ],
+      "map_label": "Wilton"
+    },
+    {
+      "district": 7,
+      "school": "Albia",
+      "places": [
+        {
+          "gazetteer": "Albia",
+          "display": "Albia"
+        }
+      ],
+      "map_label": "Albia"
+    },
+    {
+      "district": 7,
+      "school": "Centerville",
+      "places": [
+        {
+          "gazetteer": "Centerville",
+          "display": "Centerville"
+        }
+      ],
+      "map_label": "Centerville"
+    },
+    {
+      "district": 7,
+      "school": "Davis County",
+      "places": [
+        {
+          "gazetteer": "Bloomfield",
+          "display": "Bloomfield"
+        }
+      ],
+      "map_label": "Davis County\nBloomfield"
+    },
+    {
+      "district": 7,
+      "school": "PCM",
+      "places": [
+        {
+          "gazetteer": "Monroe",
+          "display": "Monroe"
+        }
+      ],
+      "map_label": "PCM\nMonroe"
+    },
+    {
+      "district": 7,
+      "school": "Pella Christian",
+      "places": [
+        {
+          "gazetteer": "Pella",
+          "display": "Pella",
+          "lon": -92.905,
+          "lat": 41.4
+        }
+      ],
+      "map_label": "Pella Christian"
+    },
+    {
+      "district": 7,
+      "school": "South Tama County",
+      "places": [
+        {
+          "gazetteer": "Tama",
+          "display": "Tama"
+        }
+      ],
+      "map_label": "South Tama\nTama"
+    },
+    {
+      "district": 8,
+      "school": "Chariton",
+      "places": [
+        {
+          "gazetteer": "Chariton",
+          "display": "Chariton"
+        }
+      ],
+      "map_label": "Chariton"
+    },
+    {
+      "district": 8,
+      "school": "Clarinda",
+      "places": [
+        {
+          "gazetteer": "Clarinda",
+          "display": "Clarinda"
+        }
+      ],
+      "map_label": "Clarinda"
+    },
+    {
+      "district": 8,
+      "school": "Clarke",
+      "places": [
+        {
+          "gazetteer": "Osceola",
+          "display": "Osceola"
+        }
+      ],
+      "map_label": "Clarke\nOsceola"
+    },
+    {
+      "district": 8,
+      "school": "Grand View Christian",
+      "places": [
+        {
+          "gazetteer": "Des Moines",
+          "display": "Des Moines",
+          "lon": -93.598,
+          "lat": 41.6205
+        }
+      ],
+      "map_label": "Grand View\nChristian"
+    },
+    {
+      "district": 8,
+      "school": "Van Meter",
+      "places": [
+        {
+          "gazetteer": "Van Meter",
+          "display": "Van Meter"
+        }
+      ],
+      "map_label": "Van Meter"
+    },
+    {
+      "district": 8,
+      "school": "Woodward-Granger",
+      "places": [
+        {
+          "gazetteer": "Woodward",
+          "display": "Woodward"
+        }
+      ],
+      "map_label": "Woodward-\nGranger"
+    }
+  ]
+}

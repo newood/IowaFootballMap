@@ -1,0 +1,543 @@
+{
+  "id": "1A",
+  "label": "Class 1A",
+  "unit": "District",
+  "teams": [
+    {
+      "district": 1,
+      "school": "Alta-Aurelia",
+      "places": [
+        {
+          "gazetteer": "Alta",
+          "display": "Alta"
+        }
+      ],
+      "map_label": "Alta-Aurelia"
+    },
+    {
+      "district": 1,
+      "school": "Hinton",
+      "places": [
+        {
+          "gazetteer": "Hinton",
+          "display": "Hinton"
+        }
+      ],
+      "map_label": "Hinton"
+    },
+    {
+      "district": 1,
+      "school": "Lawton-Bronson",
+      "places": [
+        {
+          "gazetteer": "Lawton",
+          "display": "Lawton"
+        }
+      ],
+      "map_label": "Lawton-Bronson"
+    },
+    {
+      "district": 1,
+      "school": "MVAOCOU",
+      "places": [
+        {
+          "gazetteer": "Mapleton",
+          "display": "Mapleton"
+        }
+      ],
+      "map_label": "MVAOCOU\nMapleton"
+    },
+    {
+      "district": 1,
+      "school": "Ridge View",
+      "places": [
+        {
+          "gazetteer": "Holstein",
+          "display": "Holstein"
+        }
+      ],
+      "map_label": "Ridge View\nHolstein"
+    },
+    {
+      "district": 1,
+      "school": "West Lyon",
+      "places": [
+        {
+          "gazetteer": "Inwood",
+          "display": "Inwood"
+        }
+      ],
+      "map_label": "West Lyon\nInwood"
+    },
+    {
+      "district": 2,
+      "school": "East Sac County",
+      "places": [
+        {
+          "gazetteer": "Lake View",
+          "display": "Lake View"
+        }
+      ],
+      "map_label": "East Sac\nLake View"
+    },
+    {
+      "district": 2,
+      "school": "Emmetsburg",
+      "places": [
+        {
+          "gazetteer": "Emmetsburg",
+          "display": "Emmetsburg"
+        }
+      ],
+      "map_label": "Emmetsburg"
+    },
+    {
+      "district": 2,
+      "school": "Manson Northwest Webster",
+      "places": [
+        {
+          "gazetteer": "Manson",
+          "display": "Manson"
+        }
+      ],
+      "map_label": "Manson NW"
+    },
+    {
+      "district": 2,
+      "school": "Pocahontas Area",
+      "places": [
+        {
+          "gazetteer": "Pocahontas",
+          "display": "Pocahontas"
+        }
+      ],
+      "map_label": "Pocahontas"
+    },
+    {
+      "district": 2,
+      "school": "South Central Calhoun",
+      "places": [
+        {
+          "gazetteer": "Lake City",
+          "display": "Lake City"
+        }
+      ],
+      "map_label": "S. Central Calhoun\nLake City"
+    },
+    {
+      "district": 2,
+      "school": "South Hamilton",
+      "places": [
+        {
+          "gazetteer": "Jewell Junction",
+          "display": "Jewell"
+        }
+      ],
+      "map_label": "South Hamilton\nJewell"
+    },
+    {
+      "district": 3,
+      "school": "Central Springs",
+      "places": [
+        {
+          "gazetteer": "Manly",
+          "display": "Manly"
+        }
+      ],
+      "map_label": "Central Springs\nManly"
+    },
+    {
+      "district": 3,
+      "school": "Clarion-Goldfield-Dows",
+      "places": [
+        {
+          "gazetteer": "Clarion",
+          "display": "Clarion"
+        }
+      ],
+      "map_label": "Clarion"
+    },
+    {
+      "district": 3,
+      "school": "Eagle Grove",
+      "places": [
+        {
+          "gazetteer": "Eagle Grove",
+          "display": "Eagle Grove"
+        }
+      ],
+      "map_label": "Eagle Grove"
+    },
+    {
+      "district": 3,
+      "school": "Garner-Hayfield-Ventura",
+      "places": [
+        {
+          "gazetteer": "Garner",
+          "display": "Garner"
+        }
+      ],
+      "map_label": "Garner-Hayfield"
+    },
+    {
+      "district": 3,
+      "school": "Grundy Center",
+      "places": [
+        {
+          "gazetteer": "Grundy Center",
+          "display": "Grundy Center"
+        }
+      ],
+      "map_label": "Grundy Center"
+    },
+    {
+      "district": 3,
+      "school": "South Hardin",
+      "places": [
+        {
+          "gazetteer": "Eldora",
+          "display": "Eldora"
+        }
+      ],
+      "map_label": "South Hardin\nEldora"
+    },
+    {
+      "district": 4,
+      "school": "Aplington-Parkersburg",
+      "places": [
+        {
+          "gazetteer": "Parkersburg",
+          "display": "Parkersburg"
+        }
+      ],
+      "map_label": "Aplington-\nParkersburg"
+    },
+    {
+      "district": 4,
+      "school": "Columbus Catholic",
+      "places": [
+        {
+          "gazetteer": "Waterloo",
+          "display": "Waterloo",
+          "lon": -92.357,
+          "lat": 42.492
+        }
+      ],
+      "map_label": "Columbus Catholic\nWaterloo"
+    },
+    {
+      "district": 4,
+      "school": "Hudson",
+      "places": [
+        {
+          "gazetteer": "Hudson",
+          "display": "Hudson"
+        }
+      ],
+      "map_label": "Hudson"
+    },
+    {
+      "district": 4,
+      "school": "Jesup",
+      "places": [
+        {
+          "gazetteer": "Jesup",
+          "display": "Jesup"
+        }
+      ],
+      "map_label": "Jesup"
+    },
+    {
+      "district": 4,
+      "school": "Sumner-Fredericksburg",
+      "places": [
+        {
+          "gazetteer": "Sumner",
+          "display": "Sumner"
+        }
+      ],
+      "map_label": "Sumner-\nFredericksburg"
+    },
+    {
+      "district": 4,
+      "school": "Union",
+      "places": [
+        {
+          "gazetteer": "La Porte City",
+          "display": "La Porte City"
+        }
+      ],
+      "map_label": "Union\nLa Porte City"
+    },
+    {
+      "district": 5,
+      "school": "Beckman Catholic",
+      "places": [
+        {
+          "gazetteer": "Dyersville",
+          "display": "Dyersville"
+        }
+      ],
+      "map_label": "Beckman\nDyersville"
+    },
+    {
+      "district": 5,
+      "school": "Camanche",
+      "places": [
+        {
+          "gazetteer": "Camanche",
+          "display": "Camanche"
+        }
+      ],
+      "map_label": "Camanche"
+    },
+    {
+      "district": 5,
+      "school": "Cascade",
+      "places": [
+        {
+          "gazetteer": "Cascade",
+          "display": "Cascade"
+        }
+      ],
+      "map_label": "Cascade"
+    },
+    {
+      "district": 5,
+      "school": "Lisbon",
+      "places": [
+        {
+          "gazetteer": "Lisbon",
+          "display": "Lisbon"
+        }
+      ],
+      "map_label": "Lisbon"
+    },
+    {
+      "district": 5,
+      "school": "MFL MarMac",
+      "places": [
+        {
+          "gazetteer": "Monona",
+          "display": "Monona"
+        }
+      ],
+      "map_label": "MFL MarMac\nMonona"
+    },
+    {
+      "district": 5,
+      "school": "Northeast",
+      "places": [
+        {
+          "gazetteer": "Goose Lake",
+          "display": "Goose Lake"
+        }
+      ],
+      "map_label": "Northeast\nGoose Lake"
+    },
+    {
+      "district": 6,
+      "school": "Cardinal",
+      "places": [
+        {
+          "gazetteer": "Eldon",
+          "display": "Eldon"
+        }
+      ],
+      "map_label": "Cardinal\nEldon"
+    },
+    {
+      "district": 6,
+      "school": "Durant",
+      "places": [
+        {
+          "gazetteer": "Durant",
+          "display": "Durant"
+        }
+      ],
+      "map_label": "Durant"
+    },
+    {
+      "district": 6,
+      "school": "Eddyville-Blakesburg-Fremont",
+      "places": [
+        {
+          "gazetteer": "Eddyville",
+          "display": "Eddyville"
+        }
+      ],
+      "map_label": "Eddyville"
+    },
+    {
+      "district": 6,
+      "school": "Louisa-Muscatine",
+      "places": [
+        {
+          "gazetteer": "Letts",
+          "display": "Letts"
+        }
+      ],
+      "map_label": "Louisa-Muscatine\nLetts"
+    },
+    {
+      "district": 6,
+      "school": "Regina",
+      "places": [
+        {
+          "gazetteer": "Iowa City",
+          "display": "Iowa City",
+          "lon": -91.503,
+          "lat": 41.661
+        }
+      ],
+      "map_label": "Regina\nIowa City"
+    },
+    {
+      "district": 6,
+      "school": "Sigourney/Keota",
+      "places": [
+        {
+          "gazetteer": "Sigourney",
+          "display": "Sigourney"
+        },
+        {
+          "gazetteer": "Keota",
+          "display": "Keota"
+        }
+      ],
+      "map_label": null
+    },
+    {
+      "district": 7,
+      "school": "Interstate 35",
+      "places": [
+        {
+          "gazetteer": "Truro",
+          "display": "Truro"
+        }
+      ],
+      "map_label": "Interstate 35\nTruro"
+    },
+    {
+      "district": 7,
+      "school": "Ogden",
+      "places": [
+        {
+          "gazetteer": "Ogden",
+          "display": "Ogden"
+        }
+      ],
+      "map_label": "Ogden"
+    },
+    {
+      "district": 7,
+      "school": "Panorama",
+      "places": [
+        {
+          "gazetteer": "Panora",
+          "display": "Panora"
+        }
+      ],
+      "map_label": "Panorama\nPanora"
+    },
+    {
+      "district": 7,
+      "school": "Pleasantville",
+      "places": [
+        {
+          "gazetteer": "Pleasantville",
+          "display": "Pleasantville"
+        }
+      ],
+      "map_label": "Pleasantville"
+    },
+    {
+      "district": 7,
+      "school": "West Central Valley",
+      "places": [
+        {
+          "gazetteer": "Stuart",
+          "display": "Stuart"
+        }
+      ],
+      "map_label": "West Central Valley\nStuart"
+    },
+    {
+      "district": 7,
+      "school": "West Marshall",
+      "places": [
+        {
+          "gazetteer": "State Center",
+          "display": "State Center"
+        }
+      ],
+      "map_label": "West Marshall\nState Center"
+    },
+    {
+      "district": 8,
+      "school": "Missouri Valley",
+      "places": [
+        {
+          "gazetteer": "Missouri Valley",
+          "display": "Missouri Valley"
+        }
+      ],
+      "map_label": "Missouri Valley"
+    },
+    {
+      "district": 8,
+      "school": "Red Oak",
+      "places": [
+        {
+          "gazetteer": "Red Oak",
+          "display": "Red Oak"
+        }
+      ],
+      "map_label": "Red Oak"
+    },
+    {
+      "district": 8,
+      "school": "Shenandoah",
+      "places": [
+        {
+          "gazetteer": "Shenandoah",
+          "display": "Shenandoah"
+        }
+      ],
+      "map_label": "Shenandoah"
+    },
+    {
+      "district": 8,
+      "school": "Treynor",
+      "places": [
+        {
+          "gazetteer": "Treynor",
+          "display": "Treynor"
+        }
+      ],
+      "map_label": "Treynor"
+    },
+    {
+      "district": 8,
+      "school": "Tri-Center",
+      "places": [
+        {
+          "gazetteer": "Neola",
+          "display": "Neola"
+        }
+      ],
+      "map_label": "Tri-Center\nNeola"
+    },
+    {
+      "district": 8,
+      "school": "Underwood",
+      "places": [
+        {
+          "gazetteer": "Underwood",
+          "display": "Underwood"
+        }
+      ],
+      "map_label": "Underwood"
+    }
+  ]
+}

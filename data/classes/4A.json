@@ -1,0 +1,423 @@
+{
+  "id": "4A",
+  "label": "Class 4A",
+  "unit": "District",
+  "teams": [
+    {
+      "district": 1,
+      "school": "Fort Dodge",
+      "places": [
+        {
+          "gazetteer": "Fort Dodge",
+          "display": "Fort Dodge"
+        }
+      ],
+      "map_label": "Fort Dodge"
+    },
+    {
+      "district": 1,
+      "school": "LeMars",
+      "places": [
+        {
+          "gazetteer": "Le Mars",
+          "display": "Le Mars"
+        }
+      ],
+      "map_label": "LeMars"
+    },
+    {
+      "district": 1,
+      "school": "Sergeant Bluff-Luton",
+      "places": [
+        {
+          "gazetteer": "Sergeant Bluff",
+          "display": "Sergeant Bluff"
+        }
+      ],
+      "map_label": "Sergeant Bluff-\nLuton"
+    },
+    {
+      "district": 1,
+      "school": "Sioux City West",
+      "places": [
+        {
+          "gazetteer": "Sioux City",
+          "display": "Sioux City",
+          "lon": -96.398,
+          "lat": 42.4895
+        }
+      ],
+      "map_label": "West\nSioux City"
+    },
+    {
+      "district": 1,
+      "school": "Spencer",
+      "places": [
+        {
+          "gazetteer": "Spencer",
+          "display": "Spencer"
+        }
+      ],
+      "map_label": "Spencer"
+    },
+    {
+      "district": 1,
+      "school": "Storm Lake",
+      "places": [
+        {
+          "gazetteer": "Storm Lake",
+          "display": "Storm Lake"
+        }
+      ],
+      "map_label": "Storm Lake"
+    },
+    {
+      "district": 2,
+      "school": "Cedar Rapids Washington",
+      "places": [
+        {
+          "gazetteer": "Cedar Rapids",
+          "display": "Cedar Rapids",
+          "lon": -91.6395,
+          "lat": 41.9678
+        }
+      ],
+      "map_label": "Washington"
+    },
+    {
+      "district": 2,
+      "school": "Decorah",
+      "places": [
+        {
+          "gazetteer": "Decorah",
+          "display": "Decorah"
+        }
+      ],
+      "map_label": "Decorah"
+    },
+    {
+      "district": 2,
+      "school": "Mason City",
+      "places": [
+        {
+          "gazetteer": "Mason City",
+          "display": "Mason City"
+        }
+      ],
+      "map_label": "Mason City"
+    },
+    {
+      "district": 2,
+      "school": "Waterloo East",
+      "places": [
+        {
+          "gazetteer": "Waterloo",
+          "display": "Waterloo",
+          "lon": -92.332,
+          "lat": 42.4985
+        }
+      ],
+      "map_label": "East\nWaterloo"
+    },
+    {
+      "district": 2,
+      "school": "Waverly-Shell Rock",
+      "places": [
+        {
+          "gazetteer": "Waverly",
+          "display": "Waverly"
+        }
+      ],
+      "map_label": "Waverly-\nShell Rock"
+    },
+    {
+      "district": 2,
+      "school": "Xavier",
+      "places": [
+        {
+          "gazetteer": "Cedar Rapids",
+          "display": "Cedar Rapids",
+          "lon": -91.6678,
+          "lat": 42.0455
+        }
+      ],
+      "map_label": "Xavier"
+    },
+    {
+      "district": 3,
+      "school": "Burlington",
+      "places": [
+        {
+          "gazetteer": "Burlington",
+          "display": "Burlington"
+        }
+      ],
+      "map_label": "Burlington"
+    },
+    {
+      "district": 3,
+      "school": "Clinton",
+      "places": [
+        {
+          "gazetteer": "Clinton",
+          "display": "Clinton"
+        }
+      ],
+      "map_label": "Clinton"
+    },
+    {
+      "district": 3,
+      "school": "Davenport North",
+      "places": [
+        {
+          "gazetteer": "Davenport",
+          "display": "Davenport",
+          "lon": -90.585,
+          "lat": 41.5575
+        }
+      ],
+      "map_label": "North"
+    },
+    {
+      "district": 3,
+      "school": "Davenport West",
+      "places": [
+        {
+          "gazetteer": "Davenport",
+          "display": "Davenport",
+          "lon": -90.6185,
+          "lat": 41.538
+        }
+      ],
+      "map_label": "West"
+    },
+    {
+      "district": 3,
+      "school": "North Scott",
+      "places": [
+        {
+          "gazetteer": "Eldridge",
+          "display": "Eldridge"
+        }
+      ],
+      "map_label": "North Scott\nEldridge"
+    },
+    {
+      "district": 3,
+      "school": "Western Dubuque",
+      "places": [
+        {
+          "gazetteer": "Epworth",
+          "display": "Epworth"
+        }
+      ],
+      "map_label": "Western Dubuque\nEpworth"
+    },
+    {
+      "district": 4,
+      "school": "Clear Creek-Amana",
+      "places": [
+        {
+          "gazetteer": "Tiffin",
+          "display": "Tiffin"
+        }
+      ],
+      "map_label": "Clear Creek-\nAmana"
+    },
+    {
+      "district": 4,
+      "school": "Grinnell",
+      "places": [
+        {
+          "gazetteer": "Grinnell",
+          "display": "Grinnell"
+        }
+      ],
+      "map_label": "Grinnell"
+    },
+    {
+      "district": 4,
+      "school": "Marion",
+      "places": [
+        {
+          "gazetteer": "Marion",
+          "display": "Marion"
+        }
+      ],
+      "map_label": "Marion"
+    },
+    {
+      "district": 4,
+      "school": "Newton",
+      "places": [
+        {
+          "gazetteer": "Newton",
+          "display": "Newton"
+        }
+      ],
+      "map_label": "Newton"
+    },
+    {
+      "district": 4,
+      "school": "Oskaloosa",
+      "places": [
+        {
+          "gazetteer": "Oskaloosa",
+          "display": "Oskaloosa"
+        }
+      ],
+      "map_label": "Oskaloosa"
+    },
+    {
+      "district": 4,
+      "school": "Pella",
+      "places": [
+        {
+          "gazetteer": "Pella",
+          "display": "Pella",
+          "lon": -92.916,
+          "lat": 41.408
+        }
+      ],
+      "map_label": "Pella"
+    },
+    {
+      "district": 5,
+      "school": "Ballard",
+      "places": [
+        {
+          "gazetteer": "Huxley",
+          "display": "Huxley"
+        }
+      ],
+      "map_label": "Ballard\nHuxley"
+    },
+    {
+      "district": 5,
+      "school": "Bondurant-Farrar",
+      "places": [
+        {
+          "gazetteer": "Bondurant",
+          "display": "Bondurant"
+        }
+      ],
+      "map_label": "Bondurant-\nFarrar"
+    },
+    {
+      "district": 5,
+      "school": "Carlisle",
+      "places": [
+        {
+          "gazetteer": "Carlisle",
+          "display": "Carlisle"
+        }
+      ],
+      "map_label": "Carlisle"
+    },
+    {
+      "district": 5,
+      "school": "Des Moines North",
+      "places": [
+        {
+          "gazetteer": "Des Moines",
+          "display": "Des Moines",
+          "lon": -93.6205,
+          "lat": 41.63
+        }
+      ],
+      "map_label": "North\nDes Moines"
+    },
+    {
+      "district": 5,
+      "school": "Gilbert",
+      "places": [
+        {
+          "gazetteer": "Gilbert",
+          "display": "Gilbert"
+        }
+      ],
+      "map_label": "Gilbert"
+    },
+    {
+      "district": 5,
+      "school": "North Polk",
+      "places": [
+        {
+          "gazetteer": "Alleman",
+          "display": "Alleman"
+        }
+      ],
+      "map_label": "North Polk\nAlleman"
+    },
+    {
+      "district": 6,
+      "school": "ADM",
+      "places": [
+        {
+          "gazetteer": "Adel",
+          "display": "Adel"
+        }
+      ],
+      "map_label": "ADM\nAdel"
+    },
+    {
+      "district": 6,
+      "school": "Boone",
+      "places": [
+        {
+          "gazetteer": "Boone",
+          "display": "Boone"
+        }
+      ],
+      "map_label": "Boone"
+    },
+    {
+      "district": 6,
+      "school": "Council Bluffs Thomas Jefferson",
+      "places": [
+        {
+          "gazetteer": "Council Bluffs",
+          "display": "Council Bluffs",
+          "lon": -95.8815,
+          "lat": 41.2618
+        }
+      ],
+      "map_label": "Thomas Jefferson"
+    },
+    {
+      "district": 6,
+      "school": "Denison-Schleswig",
+      "places": [
+        {
+          "gazetteer": "Denison",
+          "display": "Denison"
+        }
+      ],
+      "map_label": "Denison-\nSchleswig"
+    },
+    {
+      "district": 6,
+      "school": "Glenwood",
+      "places": [
+        {
+          "gazetteer": "Glenwood",
+          "display": "Glenwood"
+        }
+      ],
+      "map_label": "Glenwood"
+    },
+    {
+      "district": 6,
+      "school": "Lewis Central",
+      "places": [
+        {
+          "gazetteer": "Council Bluffs",
+          "display": "Council Bluffs",
+          "lon": -95.837,
+          "lat": 41.2295
+        }
+      ],
+      "map_label": "Lewis Central"
+    }
+  ]
+}
